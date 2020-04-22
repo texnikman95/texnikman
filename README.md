@@ -1,2 +1,2 @@
 # texnikman
-Texnika vatalim
+Texnika va talim
