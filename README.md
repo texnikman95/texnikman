@@ -1,0 +1,2 @@
+# texnikman
+Texnika vatalim
